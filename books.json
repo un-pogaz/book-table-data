@@ -1811,13 +1811,13 @@
                 },
                 {
                     "label": "Smashwords",
-                    "url": "https://www.smashwords.com/books/view/1434812"
+                    "url": "https://www.smashwords.com/books/view/1434812",
                     "drm": false,
                     "free": false
                 },
                 {
                     "label": "Google",
-                    "url": "https://play.google.com/store/books/details?id=WuDPEAAAQBAJ"
+                    "url": "https://play.google.com/store/books/details?id=WuDPEAAAQBAJ",
                     "drm": false,
                     "free": false
                 }
