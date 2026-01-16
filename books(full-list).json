@@ -22,6 +22,7 @@
         "cover": "sphere-of-eternity.jpg",
         "author": "L.J. Davies",
         "title": "Sphere of Eternity",
+        "series": "Dragonfire 1",
         "url": "https://www.goodreads.com/book/show/58080566-sphere-of-eternity",
         "vendors": {
             "amazon": {
@@ -51,6 +52,7 @@
         "cover": "fallen-star.jpg",
         "author": "L.J. Davies",
         "title": "Fallen Star",
+        "series": "Dragonfire 2",
         "url": "https://www.goodreads.com/book/show/58121945-fallen-star",
         "vendors": {
             "amazon": {
@@ -141,6 +143,7 @@
         "cover": "age-of-legend.jpg",
         "author": "L.J. Davies",
         "title": "Age of Legend",
+        "series": "Dragonfire 3",
         "url": "https://www.goodreads.com/book/show/58269909-age-of-legend",
         "vendors": {
             "amazon": {
@@ -170,6 +173,7 @@
         "cover": "scaleshifter.jpg",
         "author": "Shelby Hailstone Law",
         "title": "Scaleshifter",
+        "series": "Scaleshifter 1",
         "url": "https://www.goodreads.com/book/show/52993968-scaleshifter",
         "vendors": {
             "amazon": {
@@ -199,6 +203,7 @@
         "cover": "the-black-dragon.jpg",
         "author": "Shelby Hailstone Law",
         "title": "The Black Dragon",
+        "series":"Scaleshifter 2",
         "url": "https://www.goodreads.com/book/show/55023430-the-black-dragon",
         "vendors": {
             "amazon": {
@@ -292,6 +297,7 @@
         "cover": "dragonfriend.jpg",
         "author": "Marc Seccia",
         "title": "Dragonfriend",
+        "series": "Dragonfriend 1",
         "url": "https://www.goodreads.com/book/show/26799796-dragonfriend",
         "vendors": {
             "amazon": {
@@ -323,6 +329,7 @@
         "cover": "dragonlove.jpg",
         "author": "Marc Seccia",
         "title": "Dragonlove",
+        "series": "Dragonfriend 2",
         "url": "https://www.goodreads.com/book/show/25858836-dragonlove",
         "vendors": {
             "amazon": {
@@ -431,6 +438,7 @@
         "cover": "dragon-champion.jpg",
         "author": "E.E. Knight",
         "title": "Dragon Champion",
+        "series": "Age of Fire 1",
         "url": "https://www.goodreads.com/book/show/35428756-dragon-champion",
         "vendors": {
             "amazon": {
@@ -486,6 +494,7 @@
         "cover": "lazy-scales.jpg",
         "author": "DM Gilmore",
         "title": "Lazy Scales",
+        "series": "Lazy Scales 1",
         "url": "https://www.goodreads.com/book/show/55252443-lazy-scales",
         "vendors": {
             "amazon": {
@@ -603,6 +612,7 @@
         "cover": "spark-the-fire.jpg",
         "author": "Melissa McShane",
         "title": "Spark the Fire",
+        "series": "Dragons of Mother Stone 1",
         "url": "https://www.goodreads.com/book/show/58389420-spark-the-fire",
         "vendors": {
             "amazon": {
@@ -653,6 +663,7 @@
         "cover": "eyrie.jpg",
         "author": "K. Vale Nagle",
         "title": "Eyrie",
+        "series": "Gryphon Insurrection 1",
         "url": "https://www.goodreads.com/book/show/44292600-eyrie",
         "vendors": {
             "amazon": {
@@ -703,6 +714,7 @@
         "cover": "axtara-banking-and-finance.jpg",
         "author": "Max Florschutz",
         "title": "Axtara - Banking and Finance",
+        "series": "Axtara 1",
         "url": "https://www.goodreads.com/book/show/56383097-axtara---banking-and-finance",
         "vendors": {
             "amazon": {
@@ -768,6 +780,7 @@
         "cover": "the-dragon's-paladin.jpg",
         "author": "Justin A. Lee",
         "title": "The Dragon's Paladin",
+        "series": "Scales and Honor 1",
         "url": "https://www.goodreads.com/book/show/40910145-scales-and-honor",
         "vendors": {
             "amazon": {
@@ -801,6 +814,7 @@
         "cover": "dragon-of-ash-&-stars.jpg",
         "author": "H. Leighton Dickson",
         "title": "Dragon of Ash & Stars",
+        "series": "The Dragons of Solunas 1",
         "url": "https://www.goodreads.com/book/show/31279046-dragon-of-ash-stars",
         "vendors": {
             "amazon": {
@@ -830,6 +844,7 @@
         "cover": "feathers-of-gold.jpg",
         "author": "Rowan Silver",
         "title": "Feathers of Gold",
+        "series": "Dragons and Skylines 1",
         "url": "https://www.goodreads.com/book/show/61998449-feathers-of-gold",
         "vendors": {
             "amazon": {
@@ -858,6 +873,7 @@
         "cover": "song-of-the-summer-king.jpg",
         "author": "Jess E. Owen",
         "title": "Song of the Summer King",
+        "series": "The Summer King Chronicles 1",
         "url": "https://www.goodreads.com/book/show/15751365-song-of-the-summer-king",
         "vendors": {
             "amazon": {
@@ -920,6 +936,7 @@
         "cover": "the-forgotten-element.jpg",
         "author": "Chester Young",
         "title": "The Forgotten Element",
+        "series": "Dragons of Etra 1",
         "url": "https://www.goodreads.com/book/show/58812436-the-forgotten-element",
         "vendors": {
             "amazon": null,
@@ -938,6 +955,7 @@
         "cover": "the-gryphon-generation.jpg",
         "author": "Alexander Bizzell",
         "title": "The Gryphon Generation",
+        "series": "The Gryphon Generation 1",
         "url": "https://www.goodreads.com/book/show/39332595-the-gryphon-generation",
         "vendors": {
             "amazon": {
@@ -1141,6 +1159,7 @@
         "cover": "a-dream-of-wings-&-flame.jpg",
         "author": "Cale Plamann",
         "title": "A Dream of Wings & Flame",
+        "series": "A Dream of Wings & Flame 1",
         "url": "https://www.goodreads.com/book/show/62015939-a-dream-of-wings-flame",
         "vendors": {
             "amazon": {
@@ -1175,6 +1194,7 @@
         "cover": "the-last-monster-on-earth.jpg",
         "author": "L.J. Davies",
         "title": "The Last Monster On Earth",
+        "series": "The Last Monster On Earth 1",
         "url": "https://www.goodreads.com/book/show/123254723-the-last-monster-on-earth",
         "vendors": {
             "amazon": {
@@ -1225,6 +1245,7 @@
         "cover": "burning-stars-afterdark.jpg",
         "author": "Rurik Redwolf",
         "title": "Burning Stars: Afterdark",
+        "series": "Burning Stars 1",
         "url": "https://www.goodreads.com/book/show/57716668",
         "vendors": {
             "amazon": {
@@ -1339,6 +1360,7 @@
         "cover": "eyes-of-silver.jpg",
         "author": "Rowan Silver",
         "title": "Eyes of Silver",
+        "series": "Dragons and Skylines 2",
         "url": "https://www.goodreads.com/book/show/157643353-eyes-of-silver",
         "vendors": {
             "amazon": {
@@ -1367,6 +1389,7 @@
         "cover": "tail-of-revenge.jpg",
         "author": "Chester Young",
         "title": "Tail of Revenge",
+        "series": "Celestial Heir 1",
         "url": "https://www.goodreads.com/book/show/63358359-tail-of-revenge",
         "vendors": {
             "amazon": {
@@ -1395,6 +1418,7 @@
         "cover": "reincarnated-as-a-dragon-hatchling.jpg",
         "author": "Necoco",
         "title": "Reincarnated as a Dragon Hatchling",
+        "series": "Reincarnated as a Dragon Hatchling 1",
         "url": "https://www.goodreads.com/book/show/58269339-reincarnated-as-a-dragon-hatchling-light-novel-vol-1",
         "vendors": {
             "amazon": {
@@ -1439,6 +1463,7 @@
         "cover": "silver-sand-and-silken-wings.jpg",
         "author": "Heiko Ehlers",
         "title": "Silver, Sand, and Silken Wings",
+        "series": "Silver, Sand, and Silken Wings 1",
         "url": "https://www.goodreads.com/book/show/180210699-silver-sand-and-silken-wings",
         "vendors": {
             "amazon": {
@@ -1467,7 +1492,8 @@
         "cover": "new-dragon-city.jpg",
         "author": "Mari Mancus",
         "title": "New Dragon City",
-        "url": "https://www.goodreads.com/book/show/180210699-silver-sand-and-silken-wings",
+        "series": "New Dragon City 1",
+        "url": "https://www.goodreads.com/book/show/60382739-new-dragon-city",
         "vendors": {
             "amazon": {
                 "url": "https://www.amazon.com/gp/product/031637668X",
@@ -1525,6 +1551,7 @@
         "cover": "petrichor.jpg",
         "author": "C.E. Wright",
         "title": "Petrichor",
+        "series": "Head in the Clouds 1",
         "url": "https://www.goodreads.com/book/show/63008129-petrichor",
         "vendors": {
             "amazon": {
@@ -1629,6 +1656,7 @@
         "cover": "scales-of-pearl.jpg",
         "author": "Rowan Silver",
         "title": "Scales of Pearl",
+        "series": "Dragons and Skylines 3",
         "url": "https://www.goodreads.com/book/show/201332881",
         "vendors": {
             "amazon": {
@@ -1679,6 +1707,7 @@
         "cover": "the-fifth.jpg",
         "author": "Saylor Ferguson",
         "title": "The Fifth",
+        "series": "The Dragons of Time 1",
         "url": "https://www.goodreads.com/book/show/148190351-the-fifth",
         "vendors": {
             "amazon": {
@@ -1707,6 +1736,7 @@
         "cover": "the-chosen-prince.jpg",
         "author": "Shaidan Barnes",
         "title": "The Chosen Prince",
+        "series": "Scales of Fate 1",
         "url": "https://www.goodreads.com/book/show/205755050",
         "vendors": {
             "amazon": {
@@ -1735,6 +1765,7 @@
         "cover": "axinstone.jpg",
         "author": "J.F.R. Coates",
         "title": "Axinstone",
+        "series": "The Destiny of Dragons 1",
         "url": "https://www.goodreads.com/book/show/204351073",
         "vendors": {
             "amazon": {
@@ -1832,6 +1863,7 @@
         "cover": "his-majesty's-dragon.jpg",
         "author": "Naomi Novik",
         "title": "His Majesty's Dragon",
+        "series": "Temeraire 1",
         "url": "https://www.goodreads.com/book/show/18626894-his-majesty-s-dragon",
         "vendors": {
             "amazon": {
@@ -1939,6 +1971,7 @@
         "cover": "axtara-magic-and-mischief.jpg",
         "author": "Max Florschutz",
         "title": "Axtara - Magic and Mischief",
+        "series": "Axtara 2",
         "url": "https://www.goodreads.com/book/show/215354625-axtara---magic-and-mischief",
         "vendors": {
             "amazon": {
@@ -2015,6 +2048,7 @@
         "cover": "hunted.jpg",
         "author": "Skye Melki-Wegner",
         "title": "Hunted",
+        "series": "The Deadlands 1",
         "url": "https://www.goodreads.com/book/show/60405316-the-deadlands",
         "vendors": {
             "amazon": {
@@ -2050,6 +2084,7 @@
         "cover": "upon-wings-of-change.png",
         "author": "Crystal Scherer",
         "title": "Upon Wings of Change",
+        "series": "Upon Wings of Change 1",
         "url": "https://www.goodreads.com/book/show/53136511-upon-wings-of-change",
         "vendors": {
             "amazon": {
@@ -2139,6 +2174,7 @@
         "cover": "emerald-secrets.jpg",
         "author": "Justin A. Lee",
         "title": "Emerald Secrets",
+        "series": "Scales and Honor 2",
         "url": "https://www.goodreads.com/book/show/219844368-scales-and-honor",
         "vendors": {
             "amazon": {
@@ -2171,6 +2207,7 @@
         "cover": "ashen-dreams.jpg",
         "author": "Rurik Redwolf",
         "title": "Ashen Dreams",
+        "series": "Burning Stars 2",
         "url": "https://www.goodreads.com/book/show/126575317-ashen-dreams",
         "vendors": {
             "amazon": {
@@ -2227,6 +2264,7 @@
         "cover": "the-tachanigh-kelkaith.jpg",
         "author": "Rakeela Windrider",
         "title": "The Tachanigh-Kelkaith",
+        "seroes": "Theoma 1",
         "url": "https://www.goodreads.com/book/show/142401180",
         "vendors": {
             "amazon": {
@@ -2252,6 +2290,7 @@
         "cover": "the-scarred-prince.jpg",
         "author": "Shaidan Barnes",
         "title": "The Scarred Prince",
+        "series": "Scales of Fate 2",
         "url": "https://www.goodreads.com/book/show/222257591-scales-of-fate",
         "vendors": {
             "amazon": {
@@ -2320,6 +2359,7 @@
         "cover": "how-to-be-a-hero-(and-part-time-dragon).jpg",
         "author": "S. Blakeway",
         "title": "How to be a Hero: (And Part-Time Dragon)",
+        "series": "Part-Time Dragon 1",
         "url": "https://www.goodreads.com/book/show/25770175-how-to-be-a-hero",
         "vendors": {
             "amazon": {
@@ -2348,6 +2388,7 @@
         "cover": "the-lost-firebreather.jpg",
         "author": "DM Gilmore",
         "title": "The Lost Firebreather",
+        "series": "The Lost Firebreather 1",
         "url": "https://www.goodreads.com/book/show/229244868-the-lost-firebreather",
         "vendors": {
             "amazon": {
@@ -2545,6 +2586,7 @@
         "cover": "picky-eaters.jpg",
         "author": "S.J. Higbee",
         "title": "Picky Eaters",
+        "series": "Picky Eaters 1",
         "url": "https://www.goodreads.com/book/show/54221358-picky-eaters",
         "vendors": {
             "amazon": {
@@ -2573,6 +2615,7 @@
         "cover": "sapphire-stars-and-sandstone-hearts.jpg",
         "author": "Heiko Ehlers",
         "title": "Sapphire Stars and Sandstone Hearts",
+        "series": "Silver, Sand, and Silken Wings 2",
         "url": "https://www.goodreads.com/book/show/231316014-sapphire-stars-and-sandstone-hearts",
         "vendors": {
             "amazon": {
@@ -2693,6 +2736,7 @@
         "cover": "the-iron-prince.jpg",
         "author": "DM Gilmore",
         "title": "The Iron Prince",
+        "series": "The Lost Firebreather 2",
         "url": "https://www.goodreads.com/book/show/242397468",
         "vendors": {
             "amazon": {
@@ -2747,6 +2791,7 @@
         "cover": "call-me-dragon.jpg",
         "author": "Marc Secchia",
         "title": "Call Me Dragon",
+        "series": "Dragon Fires Rising 1",
         "url": "https://www.goodreads.com/book/show/55781409",
         "vendors": {
             "amazon": {
@@ -2852,6 +2897,7 @@
         "cover": "dragon-rider.jpg",
         "author": "Cornelia Funke",
         "title": "Dragon Rider",
+        "series": "Dragon Rider 1",
         "url": "https://www.goodreads.com/book/show/21171501-dragon-rider",
         "vendors": {
             "amazon": {
@@ -2902,6 +2948,7 @@
         "cover": "reverting-scales.jpg",
         "author": "The Illogic",
         "title": "Reverting Scales",
+        "series": "Reverting Scales 1",
         "url": "https://www.goodreads.com/book/show/205531889-reverting-scales",
         "vendors": {
             "amazon": {
